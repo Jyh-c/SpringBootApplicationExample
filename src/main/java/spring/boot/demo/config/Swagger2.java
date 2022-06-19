@@ -32,7 +32,7 @@ import java.util.Set;
 public class Swagger2 implements WebMvcConfigurer {
 
     private static final Set<String> DEFAULT_PRODUCES_AND_CONSUMES =
-            new HashSet<>(Arrays.asList("application/json","application/xml","application/x-www-form-urlencoded"));
+            new HashSet<>(Arrays.asList("application/json"));
 
     @Bean
     public Docket createRestApi() {
