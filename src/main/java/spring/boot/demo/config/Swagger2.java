@@ -55,7 +55,7 @@ public class Swagger2 implements WebMvcConfigurer {
                 .title("XX系统数据接口文档")
                 .description("此系统为新架构Api说明文档")
                 .termsOfServiceUrl("")
-                .contact(new Contact("二师兄想吃肉", "", "example@example.com"))
+                .contact(new Contact("二师兄想吃肉", "https://github.com/Jyh-c/SpringBootApplicationExample", "example@example.com"))
                 .version("1.0")
                 .build();
     }
