@@ -8,7 +8,7 @@
         <version>2.3.4.RELEASE</version>
         <relativePath/><!-- ../pom.xml</relativePath>lookup parent from repository -->
     </parent>
-    <groupId>com.xujun.wx</groupId>
+    <groupId>spring.boot.demo</groupId>
     <artifactId>SpringBootApplicationExample</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>SpringBootApplicationExample</name>
